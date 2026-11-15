@@ -16,6 +16,8 @@ jobs:
           distribution: zulu
           java-version: '17'
       - uses: android-actions/setup-android@v3
+        with:
+          packages: platform-tools
       - uses: ./.github/actions/setup-flutter
         with:
           platform: android-apk
