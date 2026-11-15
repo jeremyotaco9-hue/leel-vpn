@@ -3,11 +3,11 @@ import 'package:flutter/services.dart';
 import 'package:hiddify/utils/utils.dart';
 
 abstract class Constants {
-  static const appName = "Hiddify";
-  static const githubUrl = "https://github.com/hiddify/hiddify-next";
-  static const licenseUrl = "https://github.com/hiddify/hiddify-next?tab=License-1-ov-file#readme";
-  static const githubReleasesApiUrl = "https://api.github.com/repos/hiddify/hiddify-app/releases";
-  static const githubLatestReleaseUrl = "https://github.com/hiddify/hiddify-app/releases/latest";
+  static const appName = "LEEl VPN";
+  static const githubUrl = "https://github.com/jeremyotaco9-hue/leel-vpn";
+  static const licenseUrl = "https://github.com/jeremyotaco9-hue/leel-vpn?tab=License-1-ov-file#readme";
+  static const githubReleasesApiUrl = "https://api.github.com/repos/jeremyotaco9-hue/leel-vpn/releases";
+  static const githubLatestReleaseUrl = "https://github.com/jeremyotaco9-hue/leel-vpn/releases/latest";
   static const telegramChannelUrl = "https://t.me/hiddify";
   static const telegramChannelHandle = "@hiddify";
 
@@ -19,7 +19,7 @@ abstract class Constants {
   /// (telegram_report_link.dart).
   static const bugReportTelegramBot = "hiddify_issues_bot";
   static const bugReportTelegramName = "@$bugReportTelegramBot";
-  static const bugReportGithubIssueUrl = "https://github.com/hiddify/hiddify-app/issues/new";
+  static const bugReportGithubIssueUrl = "https://github.com/jeremyotaco9-hue/leel-vpn/issues/new";
   static const privacyPolicyUrl = "https://hiddify.com/privacy-policy/";
   static const termsAndConditionsUrl = "https://hiddify.com/terms/";
   static const cfWarpPrivacyPolicy = "https://www.cloudflare.com/application/privacypolicy/";

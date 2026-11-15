@@ -1,0 +1,8 @@
+{
+  "appName": "LEEl VPN",
+  "versionCode": 10000,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/jeremyotaco9-hue/leel-vpn/releases/latest/download/LEEl-VPN-Android-universal.apk",
+  "mandatory": false,
+  "notes": "Primeira versão LEEl VPN"
+}

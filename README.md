@@ -15,12 +15,12 @@
 
 </div>
 
-## What is the Hiddify app?
+## What is the LEEl VPN app?
 
-The Hiddify app is a free, open-source and ad-free proxy and VPN client for **Android, iOS, Windows, macOS and Linux**. It is built on [sing-box](https://github.com/SagerNet/sing-box) and works with almost every protocol and subscription format, so you can use it with any proxy panel, including [Hiddify Manager](https://github.com/hiddify/Hiddify-Manager).
+The LEEl VPN app is a free, open-source and ad-free proxy and VPN client for **Android, iOS, Windows, macOS and Linux**. It is built on [sing-box](https://github.com/SagerNet/sing-box) and works with almost every protocol and subscription format, so you can use it with any proxy panel, including [Hiddify Manager](https://github.com/hiddify/Hiddify-Manager).
 
 <div align=center>
-<img width=90% alt="Hiddify app" src="docs/demo-en.webp">
+<img width=90% alt="LEEl VPN app" src="docs/demo-en.webp">
 </div>
 
 ## 🚀 Main features
@@ -101,8 +101,8 @@ Files from the [latest release](https://github.com/hiddify/hiddify-app/releases/
 
 Step-by-step guides for every device, with pictures, are on our website:
 
-- [How to install the Hiddify app](https://hiddify.com/app/How-to-install-Hiddify-app/) (Android, iPhone, Windows, macOS, Linux)
-- [How to use the Hiddify app](https://hiddify.com/app/How-to-use-Hiddify-app/) (add a profile, connect, choose a server, settings)
+- [How to install the LEEl VPN app](https://hiddify.com/app/How-to-install-Hiddify-app/) (Android, iPhone, Windows, macOS, Linux)
+- [How to use the LEEl VPN app](https://hiddify.com/app/How-to-use-Hiddify-app/) (add a profile, connect, choose a server, settings)
 - [All app tutorials and videos](https://hiddify.com/app/)
 
 <div align="center">

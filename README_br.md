@@ -5,7 +5,7 @@
 </div>
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/hiddify/hiddify.com/main/docs/assets/hiddify-app-logo.svg" width=56% alt="Hiddify" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/hiddify/hiddify.com/main/docs/assets/hiddify-app-logo.svg" width=56% alt="LEEl VPN" /></p>
 <br>
 
 <div align="center">
@@ -15,12 +15,12 @@
 
 </div>
 
-## O que é o app Hiddify?
+## O que é o app LEEl VPN?
 
-O app Hiddify é um cliente de proxy e VPN gratuito, de código aberto e sem anúncios para **Android, iOS, Windows, macOS e Linux**. Ele é baseado no [sing-box](https://github.com/SagerNet/sing-box) e funciona com quase todos os protocolos e formatos de assinatura, então você pode usá-lo com qualquer painel de proxy, incluindo o [Hiddify Manager](https://github.com/hiddify/Hiddify-Manager).
+O app LEEl VPN é um cliente de proxy e VPN gratuito, de código aberto e sem anúncios para **Android, iOS, Windows, macOS e Linux**. Ele é baseado no [sing-box](https://github.com/SagerNet/sing-box) e funciona com quase todos os protocolos e formatos de assinatura, então você pode usá-lo com qualquer painel de proxy, incluindo o [LEEl VPN Manager](https://github.com/hiddify/LEEl VPN-Manager).
 
 <div align=center>
-<img width=90% alt="Hiddify app" src="docs/demo-en.webp">
+<img width=90% alt="LEEl VPN app" src="docs/demo-en.webp">
 </div>
 
 ## 🚀 Principais recursos
@@ -34,7 +34,7 @@ O app Hiddify é um cliente de proxy e VPN gratuito, de código aberto e sem an�
 - 🔀 **Modo VPN ou proxy,** roteamento por app no Android e compartilhamento da conexão com outros dispositivos da sua rede.
 - 📊 **Detalhes do perfil:** dias e dados restantes de cada assinatura.
 - 🌍 **30 idiomas,** temas escuro e claro.
-- 💻 **[HiddifyCli](https://hiddify.com/app/HiddifyCli-guide/)** para servidores e computadores sem interface gráfica.
+- 💻 **[LEEl VPNCli](https://hiddify.com/app/LEEl VPNCli-guide/)** para servidores e computadores sem interface gráfica.
 - ⭐ **Código aberto, seguro e mantido pela comunidade,** disponível nas lojas oficiais.
 
 ## 🛍️ Baixe nas lojas
@@ -57,40 +57,40 @@ Arquivos da [versão mais recente](https://github.com/hiddify/hiddify-app/releas
         <tr>
             <td>Android</td>
             <td>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Android-universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Android-arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Android-arm7.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Android-x86_64.apk"><img src="https://img.shields.io/badge/APK-x64-96ed89.svg?logo=android"></a>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Android-universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Android-arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Android-arm7.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Android-x86_64.apk"><img src="https://img.shields.io/badge/APK-x64-96ed89.svg?logo=android"></a>
             </td>
         </tr>
         <tr>
             <td>iOS</td>
             <td>
                 <a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532"><img src="https://img.shields.io/badge/App_Store-iPhone_and_iPad-0D96F6.svg?logo=apple"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-iOS.ipa"><img src="https://img.shields.io/badge/IPA-Universal-c0c0c0.svg?logo=ios"></a>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-iOS.ipa"><img src="https://img.shields.io/badge/IPA-Universal-c0c0c0.svg?logo=ios"></a>
             </td>
         </tr>
         <tr>
             <td>Windows</td>
             <td>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix"><img src="https://img.shields.io/badge/MSIX-x64-0078d7.svg?logo=windows"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Portable-x64.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Windows-Setup-x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Windows-Setup-x64.Msix"><img src="https://img.shields.io/badge/MSIX-x64-0078d7.svg?logo=windows"></a><br>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Windows-Portable-x64.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
             </td>
         </tr>
         <tr>
             <td>macOS</td>
             <td>
                 <a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532"><img src="https://img.shields.io/badge/App_Store-Apple_Silicon-D33A54.svg?logo=apple"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-MacOS.dmg"><img src="https://img.shields.io/badge/DMG-Universal-ea005e.svg?logo=apple"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-MacOS-Installer.pkg"><img src="https://img.shields.io/badge/PKG-Universal-bc544b.svg?logo=apple"></a>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-MacOS.dmg"><img src="https://img.shields.io/badge/DMG-Universal-ea005e.svg?logo=apple"></a><br>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-MacOS-Installer.pkg"><img src="https://img.shields.io/badge/PKG-Universal-bc544b.svg?logo=apple"></a>
             </td>
         </tr>
         <tr>
             <td>Linux</td>
             <td>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Linux-x64-AppImage.AppImage"><img src="https://img.shields.io/badge/AppImage-x64-f84e29.svg?logo=linux"></a><br>
-                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Debian-x64.deb"><img src="https://img.shields.io/badge/Deb_Package-x64-FF9966.svg?logo=debian"></a>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Linux-x64-AppImage.AppImage"><img src="https://img.shields.io/badge/AppImage-x64-f84e29.svg?logo=linux"></a><br>
+                <a href="https://github.com/hiddify/hiddify-app/releases/latest/download/LEEl VPN-Debian-x64.deb"><img src="https://img.shields.io/badge/Deb_Package-x64-FF9966.svg?logo=debian"></a>
             </td>
         </tr>
     </tbody>
@@ -101,8 +101,8 @@ Arquivos da [versão mais recente](https://github.com/hiddify/hiddify-app/releas
 
 Guias passo a passo, com imagens, para todos os dispositivos estão no nosso site:
 
-- [Como instalar o app Hiddify](https://hiddify.com/app/How-to-install-Hiddify-app/) (Android, iPhone, Windows, macOS, Linux)
-- [Como usar o app Hiddify](https://hiddify.com/app/How-to-use-Hiddify-app/) (adicionar um perfil, conectar, escolher um servidor, configurações)
+- [Como instalar o app LEEl VPN](https://hiddify.com/app/How-to-install-LEEl VPN-app/) (Android, iPhone, Windows, macOS, Linux)
+- [Como usar o app LEEl VPN](https://hiddify.com/app/How-to-use-LEEl VPN-app/) (adicionar um perfil, conectar, escolher um servidor, configurações)
 - [Todos os tutoriais e vídeos do app](https://hiddify.com/app/)
 
 <div align="center">
@@ -146,7 +146,7 @@ Também precisamos de apoio financeiro para os nossos serviços. Todo o nosso tr
 
 ## 👩‍🏫 Colaboração e contato
 
-O Hiddify é um projeto mantido pela comunidade. Se quiser contribuir, leia as [diretrizes de contribuição](./CONTRIBUTING.md). Ajuda com **Flutter, Go, desenvolvimento para iOS (Swift) e para Android (Kotlin)** é especialmente bem-vinda.
+O LEEl VPN é um projeto mantido pela comunidade. Se quiser contribuir, leia as [diretrizes de contribuição](./CONTRIBUTING.md). Ajuda com **Flutter, Go, desenvolvimento para iOS (Swift) e para Android (Kotlin)** é especialmente bem-vinda.
 
 <div align=center>
 <br>
