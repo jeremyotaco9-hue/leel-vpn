@@ -1,5 +1,8 @@
 - [x] Criar fork público autorizado do Hiddify e documentar a licença e as alterações da variante LEEl VPN.
 - [x] Rebatizar o aplicativo Android para LEEl VPN e usar o identificador `com.leel.vpn`.
-- [x] Criar painel separado para editar mensagem, URLs de subscrição e metadata do APK.
 - [x] Criar workflow GitHub Actions para compilar o APK Android.
+- [x] Criar painel separado para editar mensagem, URLs de subscrição e metadata do APK.
+- [x] Adicionar no painel um formulário manual para criar configurações SSH Proxy, SSH Direct, TLS, UDP e outros protocolos, guardar vários perfis e exportar `config.json`.
+- [x] Permitir preparar mensagem, atualização do APK e lista de subscrições no mesmo painel.
+- [ ] Publicar os ficheiros JSON no GitHub Pages e ligar a publicação ao mecanismo de perfis remotos do APK.
 - [ ] Configurar uma chave de assinatura Android própria nos secrets do fork antes de um release público assinado.
